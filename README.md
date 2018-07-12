@@ -1,0 +1,2 @@
+# DommodityRecognitionSystem
+基于谷歌目标检测API实现的多商品识别系统，用于无人零售解决方案的商品识别
