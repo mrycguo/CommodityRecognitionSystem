@@ -1,0 +1,4 @@
+sudo rfcomm bind /dev/rfcomm0 20:17:01:10:28:64
+sudo mknod /dev/rfcomm0 c 216 0
+sudo chmod 777 /dev/rfcomm0
+sudo hciconfig hci0 noauth
